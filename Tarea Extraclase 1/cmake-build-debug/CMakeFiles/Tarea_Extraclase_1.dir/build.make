@@ -47,10 +47,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "C:\Users\yangr\CLionProjects\Tarea Extraclase 1"
+CMAKE_SOURCE_DIR = "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug"
+CMAKE_BINARY_DIR = "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles\Tarea_Extraclase_1.dir\depend.make
@@ -63,57 +63,78 @@ include CMakeFiles\Tarea_Extraclase_1.dir\flags.make
 
 CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.obj: CMakeFiles\Tarea_Extraclase_1.dir\flags.make
 CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.obj: ..\List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tarea_Extraclase_1.dir/List.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Tarea_Extraclase_1.dir/List.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Tarea_Extraclase_1.dir\List.cpp.obj /FdCMakeFiles\Tarea_Extraclase_1.dir\ /FS -c "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\List.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Tarea_Extraclase_1.dir\List.cpp.obj /FdCMakeFiles\Tarea_Extraclase_1.dir\ /FS -c "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\List.cpp"
 <<
 
 CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_Extraclase_1.dir/List.cpp.i"
 	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\List.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\List.cpp"
 <<
 
 CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_Extraclase_1.dir/List.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Tarea_Extraclase_1.dir\List.cpp.s /c "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\List.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Tarea_Extraclase_1.dir\List.cpp.s /c "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\List.cpp"
 <<
 
 CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj: CMakeFiles\Tarea_Extraclase_1.dir\flags.make
 CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj: ..\main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea_Extraclase_1.dir/main.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Tarea_Extraclase_1.dir/main.cpp.obj"
 	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj /FdCMakeFiles\Tarea_Extraclase_1.dir\ /FS -c "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj /FdCMakeFiles\Tarea_Extraclase_1.dir\ /FS -c "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\main.cpp"
 <<
 
 CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_Extraclase_1.dir/main.cpp.i"
 	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.i @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\main.cpp"
 <<
 
 CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_Extraclase_1.dir/main.cpp.s"
 	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
- /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Tarea_Extraclase_1.dir\main.cpp.s /c "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\main.cpp"
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Tarea_Extraclase_1.dir\main.cpp.s /c "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\main.cpp"
+<<
+
+CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.obj: CMakeFiles\Tarea_Extraclase_1.dir\flags.make
+CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.obj: ..\Collector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Tarea_Extraclase_1.dir/Collector.cpp.obj"
+	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoCMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.obj /FdCMakeFiles\Tarea_Extraclase_1.dir\ /FS -c "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\Collector.cpp"
+<<
+
+CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Tarea_Extraclase_1.dir/Collector.cpp.i"
+	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe > CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.i @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\Collector.cpp"
+<<
+
+CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Tarea_Extraclase_1.dir/Collector.cpp.s"
+	C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\cl.exe @<<
+ /nologo /TP $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) /FoNUL /FAs /FaCMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.s /c "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\Collector.cpp"
 <<
 
 # Object files for target Tarea_Extraclase_1
 Tarea_Extraclase_1_OBJECTS = \
 "CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.obj" \
-"CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj"
+"CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj" \
+"CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.obj"
 
 # External object files for target Tarea_Extraclase_1
 Tarea_Extraclase_1_EXTERNAL_OBJECTS =
 
 Tarea_Extraclase_1.exe: CMakeFiles\Tarea_Extraclase_1.dir\List.cpp.obj
 Tarea_Extraclase_1.exe: CMakeFiles\Tarea_Extraclase_1.dir\main.cpp.obj
+Tarea_Extraclase_1.exe: CMakeFiles\Tarea_Extraclase_1.dir\Collector.cpp.obj
 Tarea_Extraclase_1.exe: CMakeFiles\Tarea_Extraclase_1.dir\build.make
 Tarea_Extraclase_1.exe: CMakeFiles\Tarea_Extraclase_1.dir\objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Tarea_Extraclase_1.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Tarea_Extraclase_1.exe"
 	"C:\Program Files\JetBrains\CLion 2020.3.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\Tarea_Extraclase_1.dir --rc=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\rc.exe --mt=C:\PROGRA~2\WI3CF2~1\10\bin\100183~1.0\x86\mt.exe --manifests  -- C:\PROGRA~2\MIB055~1\2019\BUILDT~1\VC\Tools\MSVC\1428~1.293\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\Tarea_Extraclase_1.dir\objects1.rsp @<<
- /out:Tarea_Extraclase_1.exe /implib:Tarea_Extraclase_1.lib /pdb:"C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug\Tarea_Extraclase_1.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
+ /out:Tarea_Extraclase_1.exe /implib:Tarea_Extraclase_1.lib /pdb:"C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug\Tarea_Extraclase_1.pdb" /version:0.0  /machine:X86 /debug /INCREMENTAL /subsystem:console  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib 
 <<
 
 # Rule to build all files generated by this target.
@@ -126,6 +147,6 @@ CMakeFiles\Tarea_Extraclase_1.dir\clean:
 .PHONY : CMakeFiles\Tarea_Extraclase_1.dir\clean
 
 CMakeFiles\Tarea_Extraclase_1.dir\depend:
-	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Users\yangr\CLionProjects\Tarea Extraclase 1" "C:\Users\yangr\CLionProjects\Tarea Extraclase 1" "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug" "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug" "C:\Users\yangr\CLionProjects\Tarea Extraclase 1\cmake-build-debug\CMakeFiles\Tarea_Extraclase_1.dir\DependInfo.cmake" --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "NMake Makefiles" "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1" "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1" "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug" "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug" "C:\Users\yangr\Desktop\Tarea-1\Tarea Extraclase 1\cmake-build-debug\CMakeFiles\Tarea_Extraclase_1.dir\DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles\Tarea_Extraclase_1.dir\depend
 

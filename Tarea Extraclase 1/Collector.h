@@ -1,8 +1,14 @@
-#include "Collector.h"
+//
+// Created by yangr on 10/3/2021.
+//
 
-class LinkedList{
+#ifndef MAIN_CPP_COLLECTOR_H
+#define MAIN_CPP_COLLECTOR_H
+
+
+class Collector {
+
 private:
-
     struct node{
         int data;
         node* next;
@@ -10,16 +16,16 @@ private:
 
     typedef struct node* nodePtr;
 
-    Collector collector;
     nodePtr head;
     nodePtr current;
     nodePtr temp;
 
 public:
-    LinkedList ();
+    Collector ();
     void AddNode(int addData);
     void DeleteNode(int delData);
     void PrintList();
-    void ModifyHead(int modifyData);
-
 };
+
+
+#endif //MAIN_CPP_COLLECTOR_H

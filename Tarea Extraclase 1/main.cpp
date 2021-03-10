@@ -13,7 +13,7 @@ int main(int argc , char** argv) {
     Try1.AddNode(9);
     Try1.AddNode(11);
 
-    Try1.DeleteNode(3);
+    Try1.ModifyHead(777);
 
     Try1.PrintList();
     return 0;

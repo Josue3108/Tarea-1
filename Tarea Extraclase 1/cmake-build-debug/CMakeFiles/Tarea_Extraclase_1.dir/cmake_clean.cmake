@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Tarea_Extraclase_1.dir/Collector.cpp.obj"
   "CMakeFiles/Tarea_Extraclase_1.dir/List.cpp.obj"
   "CMakeFiles/Tarea_Extraclase_1.dir/main.cpp.obj"
   "Tarea_Extraclase_1.exe"
