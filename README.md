@@ -1,2 +1,3 @@
 # Tarea-1
-Tarea 1 de Algoritmos y Estructuras de Datos 2
+Realizar una lista enlazada en c++, que posea una clase nodo para guardar datos y poseer un sistema de collector
+
