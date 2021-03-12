@@ -15,7 +15,7 @@ void LinkedList::AddNode(int addData) {
     n->next = head;
     n->data = addData;
     head = n;
-    collector.AddNode(reinterpret_cast<int>(&head));
+    collector.AddNode(reinterpret_cast<int>(head));
 }
 
 void LinkedList::DeleteNode(int delData) {
@@ -38,7 +38,7 @@ void LinkedList::DeleteNode(int delData) {
             head = head->next;
             temp = NULL;
         }
-        collector.DeleteNode(reinterpret_cast<int>(&delPtr));
+        collector.DeleteNode(reinterpret_cast<int>(delPtr));
         delete delPtr;
         cout << "The value " << delData << " was deleted\n";
     }
